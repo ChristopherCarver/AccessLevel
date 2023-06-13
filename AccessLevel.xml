@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-06-13 15:16:56">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Access Level</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>d1c8c2972f532110519f235df699b638</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>7e4dd61f2f932110519f235df699b6e1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_a08754b4c611228701f7be7b66a6e8a5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="a08754b4c611228701f7be7b66a6e8a5" sys_domain="global" table="task" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e06c611227d0062d8751af22377</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>1</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e24c611227d01712712a3802218</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_ci</element><position>2</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e2ec611227d01bc1fe552070430</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>3</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e38c611227d01d1f967b8f4d949</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e38c611227d004d107e1f2cc9f9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>5</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e4cc611227d0175d3d798e95b97</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>6</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e56c611227d00a6cf28873b6469</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent</element><position>7</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e56c611227d016a65129c55781a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e6ac611227d0011b4c2dc186cf9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>9</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e6ac611227d0072432802e33127</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>10</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e74c611227d0197171fc8bff027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>11</position><sys_created_by>david.loo</sys_created_by><sys_created_on>2005-04-08 22:11:53</sys_created_on><sys_id>23de7e88c611227d006f14d619021823</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2005-04-08 22:11:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_eyes_only</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-06 19:58:05</sys_created_on><sys_id>958a97852fd32110519f235df699b60b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-06 19:58:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_access_level</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 13:57:45</sys_created_on><sys_id>cf2bcedb2f532110519f235df699b6c9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="Default view">a08754b4c611228701f7be7b66a6e8a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 13:57:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>task</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>pat</sys_created_by><sys_created_on>2004-07-08 20:52:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>a08754b4c611228701f7be7b66a6e8a5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>task</sys_name><sys_overrides/><sys_package display_value="System (apps/system_ui)" source="apps/system_ui">1a698731e821211076da10591ad287c3</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_a08754b4c611228701f7be7b66a6e8a5</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-14 03:01:39</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>591373022</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>324dd61f2f932110519f235df699b6e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b50c592b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>task</table>
+<target_name>Task</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>032bcedb52532110bd5786b7542a95cc</update_guid>
+<update_guid_history>032bcedb52532110bd5786b7542a95cc:591373022,d58a978547d32110f180fc6177dd650e:1301241069</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_0d9a925b2f932110519f235df699b6d8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 15:06:11</sys_created_on><sys_id>0d9a925b2f932110519f235df699b6d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.access_level_manager</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">889a5a9b2f932110519f235df699b61d</sys_security_acl><sys_update_name>sys_security_acl_role_0d9a925b2f932110519f235df699b6d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 15:06:11</sys_updated_on><sys_user_role display_value="access_level_manager" name="access_level_manager">55081ad72f932110519f235df699b679</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-735716978</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>364dd61f2f932110519f235df699b6e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b54b01880000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>889a5a9b2f932110519f235df699b61d</table>
+<target_name>.access_level_manager</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>2ddade1b5a93211026ab7b14ead88f60</update_guid>
+<update_guid_history>2ddade1b5a93211026ab7b14ead88f60:-735716978</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_99cb1edb2f932110519f235df699b602</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;task&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="task"&gt;u_access_levelVALCHANGES^ORassignment_groupVALCHANGES^EQ&lt;item endquery="false" field="u_access_level" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="assignment_group" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Access Level - Update&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    // admins can set any access level
+    if (gs.getUser().hasRole('admin')) {
+        return;
+    }
+
+    // retrieve helpful values into variables
+    var current_access_level = parseInt(current.getDisplayValue('u_access_level'));
+    var previous_access_level = parseInt(previous.getDisplayValue('u_access_level'));
+    var user = gs.getUser().getRecord();
+    var user_access_level = parseInt(user.getDisplayValue('u_access_level'));
+    var current_group = current.assignment_group;
+    var current_manager = current_group.manager;
+    var current_group_access_level = parseInt(current_group.u_access_level);
+    var previous_group = previous.assignment_group;
+    var previous_manager = previous_group.manager;
+/*
+    // uncomment as needed
+    gs.addInfoMessage('DEBUG:' +
+        ' Current Access Level: ' + current_access_level +
+        ' Previous Group: ' + previous_group.getDisplayValue('name') +
+        ' Previous Access Level: ' + previous_access_level +
+        ' User Access Level: ' + user_access_level +
+        ' Current Group: ' + current_group.getDisplayValue('name') +
+        ' Current Group Access Level: ' + current_group_access_level +
+        ' Current Group Co-managers: ' + current_group.u_co_managers +
+        ' Current User: ' + user.getValue('sys_id') +
+        ' Index of: ' + current_group.u_co_managers.indexOf(user.getValue('sys_id')));
+*/
+    // on ticket reassignment, the ticket's access level cannot be greater than the assignment group's access level
+    if (current_group.getValue('sys_id') != previous_group.getValue('sys_id') &amp;&amp;
+        current_group_access_level &lt; current_access_level) {
+        gs.addErrorMessage('You must lower the access level to ' + current_group_access_level + ' to reassign to ' + current_group.getDisplayValue('name') + '.');
+        current.setAbortAction(true);
+    }
+
+    // one can only change the access level if a member of the assignment group
+    if (!gs.getUser().isMemberOf(current.assignment_group.getDisplayValue()) &amp;&amp;
+        !gs.getUser().isMemberOf(previous.assignment_group.getDisplayValue()) &amp;&amp;
+        user.getValue('sys_id') != current_manager &amp;&amp;
+        user.getValue('sys_id') != previous_manager &amp;&amp;
+        current_group.u_co_managers.indexOf(user.getValue('sys_id')) &lt; 0 &amp;&amp;
+        previous_group.u_co_managers.indexOf(user.getValue('sys_id')) &lt; 0) {
+        gs.addErrorMessage('You can only change access levels if you are a member of the assignment group.');
+        current.setAbortAction(true);
+    }
+
+    // only managers of the assignment group can lower access levels
+    if (current_access_level &lt; previous_access_level &amp;&amp;
+        user.getValue('sys_id') != current_manager &amp;&amp;
+        user.getValue('sys_id') != previous_manager &amp;&amp;
+        current_group.u_co_managers.indexOf(user.getValue('sys_id')) &lt; 0 &amp;&amp;
+        previous_group.u_co_managers.indexOf(user.getValue('sys_id')) &lt; 0) {
+        gs.addErrorMessage('Only the manager (' + previous_manager.getDisplayValue() + ') or one of the co-managers of the assignment group ' + previous_group.getDisplayValue('name') + ', can lower access levels.');
+        current.setAbortAction(true);
+    }
+
+    // a access level cannot be increased above ones own access level
+    if (user_access_level &lt; current_access_level) {
+        gs.addErrorMessage('You can only increase the access level to ' + user_access_level + '. Either have another account with a higher access level or a access level administrator to increase the access level.');
+        current.setAbortAction(true);
+    }
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-13 15:12:54&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;99cb1edb2f932110519f235df699b602&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Access Level - Update&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_99cb1edb2f932110519f235df699b602&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-13 15:12:54&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=99cb1edb2f932110519f235df699b602"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1313847082</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>3a4dd61f2f932110519f235df699b6e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b551293d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>task</table>
+<target_name>Access Level - Update</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>406c561f1493211081ef28cf861e7d3b</update_guid>
+<update_guid_history>406c561f1493211081ef28cf861e7d3b:1313847082</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_task_u_access_level</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_access_level" table="task"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Access level&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;0&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_access_level&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Integer"&gt;integer&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;task&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-13 13:57:44&lt;/sys_created_on&gt;&lt;sys_id&gt;da1b4edb2f532110519f235df699b69b&lt;/sys_id&gt;&lt;sys_name&gt;Access level&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_task_u_access_level&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-13 13:57:44&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>359017163</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>3e4dd61f2f932110519f235df699b6e2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b50c67960000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>task</table>
+<target_name>Task.Access level</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>083b421ff6532110620058fca1aa8198</update_guid>
+<update_guid_history>083b421ff6532110620058fca1aa8198:359017163</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_889a5a9b2f932110519f235df699b61d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>sys_user_group.u_access_level</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 15:06:11</sys_created_on><sys_id>889a5a9b2f932110519f235df699b61d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user_group.u_access_level</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_889a5a9b2f932110519f235df699b61d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 15:06:11</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-429309779</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>724dd61f2f932110519f235df699b6e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b54b01b50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>sys_user_group.u_access_level</table>
+<target_name>sys_user_group.u_access_level</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>69dade1bab9321100d7cffb5e0557263</update_guid>
+<update_guid_history>69dade1bab9321100d7cffb5e0557263:-429309779</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_task_u_access_level_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_access_level" label="Access level" language="en" table="task"><sys_documentation action="INSERT_OR_UPDATE"><element>u_access_level</element><help/><hint/><label>Access level</label><language>en</language><name>task</name><plural>Access levels</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 13:57:45</sys_created_on><sys_id>5b2b021f2f532110519f235df699b627</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Access level</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_task_u_access_level_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 13:57:45</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1425772511</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>764dd61f2f932110519f235df699b6e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b50c67b60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>task</table>
+<target_name>Task.Access level</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>883b421f1e532110945b2794c910e6a6</update_guid>
+<update_guid_history>883b421f1e532110945b2794c910e6a6:1425772511</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sys_user_u_access_level</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_access_level" table="sys_user"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Access level&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;0&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_access_level&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Integer"&gt;integer&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;sys_user&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-13 13:49:39&lt;/sys_created_on&gt;&lt;sys_id&gt;8bf8ca5b2f532110519f235df699b65c&lt;/sys_id&gt;&lt;sys_name&gt;Access level&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sys_user_u_access_level&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-13 13:49:39&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2126659771</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>7a4dd61f2f932110519f235df699b6e2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b504f6ad0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>sys_user</table>
+<target_name>User.Access level</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>c559029b5e532110017b036c9742e6bc</update_guid>
+<update_guid_history>c559029b5e532110017b036c9742e6bc:2126659771</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_5134502bc611227c019dbdc4d7e32319</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="5134502bc611227c019dbdc4d7e32319" sys_domain="global" table="sys_user" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>user_name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>0176b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>first_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>4176b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>last_name</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>8176b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>title</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>c176b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>department</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>0576b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>user_password</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>4576b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>password_needs_reset</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>8576b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>locked_out</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>c576b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>0976b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>web_service_access_only</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>4976b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>internal_integration_user</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>8976b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>c976b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>email</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>0d76b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>4d76b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>notification</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>8d76b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>calendar_integration</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>cd76b9da470131002853bc357c9a71a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>0176b9da470131002853bc357c9a71a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>date_format</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>4176b9da470131002853bc357c9a71a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>phone</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>8176b9da470131002853bc357c9a71a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>mobile_phone</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>c176b9da470131002853bc357c9a71a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>photo</element><position>20</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>0576b9da470131002853bc357c9a71a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>21</position><sys_created_by>admin</sys_created_by><sys_created_on>2014-12-19 22:44:43</sys_created_on><sys_id>4576b9da470131002853bc357c9a71a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-12-19 22:44:43</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_clearance_level</element><position>22</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-17 14:25:08</sys_created_on><sys_id>098e076ec376611093d06435990131e9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-17 14:25:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_access_level</element><position>23</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 13:49:39</sys_created_on><sys_id>a059029b2f532110519f235df699b68f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="Default view">5134502bc611227c019dbdc4d7e32319</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 13:49:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>GUEST</sys_created_by><sys_created_on>2004-05-02 00:00:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>5134502bc611227c019dbdc4d7e32319</sys_id><sys_mod_count>3</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="Non Interactive Sessions" source="com.glide.security.non_interactive_users">14ae8f35e8e1211076da10591ad287a3</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_5134502bc611227c019dbdc4d7e32319</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2012-07-24 20:17:36</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-824688856</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>7e4dd61f2f932110519f235df699b6e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b504f1a10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>sys_user</table>
+<target_name>User</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>2859029bb45321103c2decb4c967e792</update_guid>
+<update_guid_history>2859029bb45321103c2decb4c967e792:-824688856,818e076e0676611067e4aab4ee1284ec:1959052009,ddab998344d32110531e5b07e9c37f22:578819981</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sys_user_group_u_access_level</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_access_level" table="sys_user_group"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Access level&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;0&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_access_level&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Integer"&gt;integer&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;sys_user_group&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-13 13:56:58&lt;/sys_created_on&gt;&lt;sys_id&gt;4fea4adb2f532110519f235df699b6a5&lt;/sys_id&gt;&lt;sys_name&gt;Access level&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sys_user_group_u_access_level&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-13 13:56:58&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-52178757</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>b24dd61f2f932110519f235df699b6e2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b50ba56e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>sys_user_group</table>
+<target_name>Group.Access level</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>7bfa8adb865321104e0a38fc42ee21f6</update_guid>
+<update_guid_history>7bfa8adb865321104e0a38fc42ee21f6:-52178757</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sys_user_u_access_level_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_access_level" label="Access level" language="en" table="sys_user"><sys_documentation action="INSERT_OR_UPDATE"><element>u_access_level</element><help/><hint/><label>Access level</label><language>en</language><name>sys_user</name><plural>Access levels</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 13:49:40</sys_created_on><sys_id>2059029b2f532110519f235df699b694</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Access level</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_sys_user_u_access_level_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 13:49:40</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-667120305</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>b24dd61f2f932110519f235df699b6e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b504f6e20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>sys_user</table>
+<target_name>User.Access level</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>4559029b1f5321105ec1ec49a8046dbe</update_guid>
+<update_guid_history>4559029b1f5321105ec1ec49a8046dbe:-667120305</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_615b061f2f532110519f235df699b6f6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Accounts can view any record regardless of access level.</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>access_level_override</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 13:59:00</sys_created_on><sys_id>615b061f2f532110519f235df699b6f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>access_level_override</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_user_role_615b061f2f532110519f235df699b6f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 13:59:00</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>2132616889</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>b64dd61f2f932110519f235df699b6e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b50d81b80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table/>
+<target_name>access_level_override</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>697b061f0f532110a1513c89be7ceafc</update_guid>
+<update_guid_history>697b061f0f532110a1513c89be7ceafc:2132616889</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_0e58739fc0a8016400e2e29c13e3798d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="0e58739fc0a8016400e2e29c13e3798d" sys_domain="global" table="sys_user_group" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-04-16 05:17:17</sys_created_on><sys_id>f8d2d1ea0a4700d201c09abae09edd2d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-04-16 05:17:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>manager</element><position>1</position><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-04-16 05:17:17</sys_created_on><sys_id>f8d2d1fe0a4700d2017d90f63052b94b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-04-16 05:17:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-04-16 05:17:17</sys_created_on><sys_id>f8d2d2080a4700d20145b9bc84546025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-04-16 05:17:17</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>email</element><position>3</position><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-04-16 05:17:17</sys_created_on><sys_id>f8d2d2080a4700d20042a983e31d2775</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-04-16 05:17:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent</element><position>4</position><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-04-16 05:17:17</sys_created_on><sys_id>f8d2d2120a4700d20069be913d8fe00d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-04-16 05:17:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-04-16 05:17:17</sys_created_on><sys_id>f8d2d2120a4700d201ff81fd8d1c1904</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-04-16 05:17:17</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>6</position><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-04-16 05:17:17</sys_created_on><sys_id>f8d2d21c0a4700d200e5e7fed96cc8a6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-04-16 05:17:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_members_only</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-06 16:16:15</sys_created_on><sys_id>b3b7ae052f132110519f235df699b675</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-06 16:16:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_access_level</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 13:56:58</sys_created_on><sys_id>33fa06db2f532110519f235df699b61e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 13:56:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user_group</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2005-02-14 00:50:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>0e58739fc0a8016400e2e29c13e3798d</sys_id><sys_mod_count>3</sys_mod_count><sys_name>sys_user_group</sys_name><sys_overrides/><sys_package display_value="Contextual Security: Role Management" source="com.glide.role_management">f799c7b1e821211076da10591ad287d3</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_0e58739fc0a8016400e2e29c13e3798d</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-14 02:49:51</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-784791825</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>ba4dd61f2f932110519f235df699b6e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b50ba3850000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>sys_user_group</table>
+<target_name>Group</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>3ffa06dbac532110c134597bc7e7fe1f</update_guid>
+<update_guid_history>3ffa06dbac532110c134597bc7e7fe1f:-784791825,3fb7a645ad132110f5f1966804ee02ad:-664871717</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_2c19925b2f932110519f235df699b6a2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>sys_user.u_access_level</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 15:03:14</sys_created_on><sys_id>2c19925b2f932110519f235df699b6a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user.u_access_level</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_2c19925b2f932110519f235df699b6a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 15:03:14</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1927727981</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>be4dd61f2f932110519f235df699b6e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b5484bc10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>sys_user.u_access_level</table>
+<target_name>sys_user.u_access_level</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>5a2a929b55932110c2f1cd80426770d9</update_guid>
+<update_guid_history>5a2a929b55932110c2f1cd80426770d9:1927727981</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_55081ad72f932110519f235df699b679</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Accounts can set the access level fields on user and group records.</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>access_level_manager</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 14:54:20</sys_created_on><sys_id>55081ad72f932110519f235df699b679</sys_id><sys_mod_count>0</sys_mod_count><sys_name>access_level_manager</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_user_role_55081ad72f932110519f235df699b679</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 14:54:20</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-425182338</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>f24dd61f2f932110519f235df699b6e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b54027c30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table/>
+<target_name>access_level_manager</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>44281ad7bf932110bdb9675b8ca37a7e</update_guid>
+<update_guid_history>44281ad7bf932110bdb9675b8ca37a7e:-425182338</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_0e19d25b2f932110519f235df699b617</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 15:03:13</sys_created_on><sys_id>0e19d25b2f932110519f235df699b617</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.access_level_manager</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">2c19925b2f932110519f235df699b6a2</sys_security_acl><sys_update_name>sys_security_acl_role_0e19d25b2f932110519f235df699b617</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 15:03:13</sys_updated_on><sys_user_role display_value="access_level_manager" name="access_level_manager">55081ad72f932110519f235df699b679</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-692252850</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>f64dd61f2f932110519f235df699b6e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b5484b570000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>2c19925b2f932110519f235df699b6a2</table>
+<target_name>.access_level_manager</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>9e2a929bc5932110876d436a8153d5d5</update_guid>
+<update_guid_history>9e2a929bc5932110876d436a8153d5d5:-692252850</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_dd221e532f932110519f235df699b694</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;true&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;task&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Access Level - Query&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    if (gs.getUser().hasRole('admin') || gs.getUser().hasRole('access_level_override')) {
+        return;
+    }
+
+    current.addQuery('u_access_level', '&lt;=', gs.getUser().getRecord().getValue('u_access_level')).addOrCondition('u_access_level', 'NULL');
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-13 14:29:14&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;dd221e532f932110519f235df699b694&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Access Level - Query&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_dd221e532f932110519f235df699b694&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-13 14:29:14&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=dd221e532f932110519f235df699b694"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-880510456</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>fa4dd61f2f932110519f235df699b6e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b5292f3c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>task</table>
+<target_name>Access Level - Query</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>20625a9362932110dc8b4e46978e30c0</update_guid>
+<update_guid_history>20625a9362932110dc8b4e46978e30c0:-880510456</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sys_user_group_u_access_level_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_access_level" label="Access level" language="en" table="sys_user_group"><sys_documentation action="INSERT_OR_UPDATE"><element>u_access_level</element><help/><hint/><label>Access level</label><language>en</language><name>sys_user_group</name><plural>Access levels</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-13 13:56:58</sys_created_on><sys_id>bffa06db2f532110519f235df699b620</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Access level</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_sys_user_group_u_access_level_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-13 13:56:58</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1447955313</payload_hash>
+<remote_update_set display_value="Access Level">7e4dd61f2f932110519f235df699b6e1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-13 15:16:55</sys_created_on>
+<sys_id>fe4dd61f2f932110519f235df699b6e2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188b50ba5940000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-13 15:16:55</sys_updated_on>
+<table>sys_user_group</table>
+<target_name>Group.Access level</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>37fa8adbd15321107e8f185ce6232ff8</update_guid>
+<update_guid_history>37fa8adbd15321107e8f185ce6232ff8:-1447955313</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
